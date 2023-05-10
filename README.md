@@ -1,16 +1,11 @@
-# primeiro_projeto
+# Sports Tools
 
-Hello World
+This is a personal project to develop my Flutter skills and build a portfolio
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+In the current version, the app has a scoreboard with editable team names. The user can add and subtract points for each team
 
-A few resources to get you started if this is your first Flutter project:
+## Upcoming features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ - Player sorting (User inputs the name of the players and the app randomizes and distributes them among X amount of teams)
