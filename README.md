@@ -9,3 +9,8 @@ In the current version, the app has a scoreboard with editable team names. The u
 ## Upcoming features
 
  - Player sorting (User inputs the name of the players and the app randomizes and distributes them among X amount of teams)
+
+## Screenshots
+
+![alt text](https://i.imgur.com/qDZgIxg.png) ![alt text](https://i.imgur.com/yjk7Q6K.png)
+![alt text](https://i.imgur.com/5Se0ILq.png)
